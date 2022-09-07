@@ -2,18 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://danielcai97.github.io/Daniel.github.io/link/index.html</loc>
+    <loc>https://danielcai97.github.io/Daniel.github.io/2022/09/06/tower_crane/</loc>
     
-    <lastmod>2022-09-06</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://danielcai97.github.io/Daniel.github.io/category/index.html</loc>
-    
-    <lastmod>2022-09-06</lastmod>
+    <lastmod>2022-09-07</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -29,9 +20,18 @@
   </url>
   
   <url>
-    <loc>https://danielcai97.github.io/Daniel.github.io/2022/09/05/hello-world/</loc>
+    <loc>https://danielcai97.github.io/Daniel.github.io/categories/index.html</loc>
     
-    <lastmod>2022-09-05</lastmod>
+    <lastmod>2022-09-06</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://danielcai97.github.io/Daniel.github.io/link/index.html</loc>
+    
+    <lastmod>2022-09-06</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -40,7 +40,7 @@
 
   <url>
     <loc>https://danielcai97.github.io/Daniel.github.io</loc>
-    <lastmod>2022-09-06</lastmod>
+    <lastmod>2022-09-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
